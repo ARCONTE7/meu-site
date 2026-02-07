@@ -1,0 +1,12 @@
+{
+  "name": "meu-primeiro-site",
+  "version": "1.0.0",
+  "description": "Meu site incrível",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.18.0"
+  }
+}
